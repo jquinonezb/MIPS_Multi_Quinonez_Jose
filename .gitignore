@@ -8,6 +8,9 @@
 **/output_files/*.*
 **/output_files/!*.sof
 **/proj_quartus/greybox_tmp
+**/proj_quartus/*.vwf
+**/proj_quartus/simulation/*
+**/proj_quartus/*.qsf
 *.mti
 *.mpf
 *.qws
